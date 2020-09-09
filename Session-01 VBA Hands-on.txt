@@ -1,0 +1,63 @@
+VBA: Visual Basic for Application (MS Excel, MS Word, MS Access..)
+   : is programing language 
+
+VB : Visual Basic
+VBS: VIsual Basic Script
+VB.Net: .Net is application plateform 
+
+
+Step 1: How to write first VBA code in MS Excel 
+	- your excel extension should be .xlsm (macro)
+
+Step 2: Enable Developer Tab/Menu
+	- Go to file menu -> Options -> Customize Ribbon -> Check Developer Tab -> Then click on ok
+	
+Step 3: Open Visual Basic Editor (coding editor)
+	- Press Alt+F11   
+	or
+	- Go to Developer Menu -> Click on Visual Basic Icon
+	
+Step 4: Now, start to learn and write source code(VBA code) 
+
+-> Words/Keywords
+	sub		: sub-routine (task)
+	dim		: declare the variabels
+	as		: type of memory or variable
+	String		: is data type (alph numeric)
+	Integer		: is number type(numeric)
+	if		: is conditional statement
+	else		: false part of if 
+	elseif		: false with if condition 
+	for		: is keyword for loop(iteration or repeation)
+	while		
+	case
+	etc...
+
+-> Syntax
+	'Messsage Box Example  : comment line (inactive line which will not be executed)
+	
+Step 5: Run the sub-routine 
+	Press F5
+	or
+	Click on Run Icon
+
+
+Variable and Data Type
+------------------------------
+	
+
+Q. WAP to read 5 subject marks from sheet and calculate total score and average 
+		hs ms   cs ...  total?  avg?
+		78  89   78
+Q. WAP to read sales amount from excel worksheet and show GST(SGST,CGST) and write to excel sheet 
+
+		sales_amount      SGST?  CGST?
+			5466666
+
+
+
+
+
+
+	
+	 
