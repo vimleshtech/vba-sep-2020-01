@@ -1,0 +1,101 @@
+Agenda's of Today Session
+===========================
+Variable
+Data Type
+Operator
+Condition
+
+Variable:
+	is temp memory where data can be stored or saved
+	example
+		Dim a as Integer  ' a is variable name  and type integer (numebr 0,1,2,3,4,5,6,7,8,9)
+		Dim b  		  ' b is variable  and we can store any type of data  (111, "fffg")
+		Dim c as String   ' c is variabel and we can store string value only 
+
+	Correct syntax to declare variable
+		Dim ab
+		Dim a1
+		Dim a_b
+		Dim fullname
+
+	Incorrect syntax
+		Dim 1a
+		Dim a+b
+		Dim full name
+		
+
+
+Data Type
+	"a"+"b"  string/text
+	1+2      number/integer
+
+	There are following types of datatype
+		Byte 	 0 to 255
+		Integer  -32768 to 32767
+		Long     -2147483648 to 214748364
+		Single   -3 B  to 
+		Double   -1.78  to   				/ decimal 
+		Currencey -922337203685477.5808  ... 
+
+		String		1 to 65400 chars
+		Date		
+		Boolean		True or False 
+		Object		Any type 
+		Varient		same as String 
+		
+Operator
+	Airthmetic 	
+		+		2+3= 5
+		-		2-3 =-1	
+		*		2*3 =6
+		/		23/10 = 2.3
+		%		23%10 = 3  (mode)
+		^		2^4  = 16 (2 raise 4)
+
+	Conditinal Operator
+		>		is greater 
+		>=		is greater and equal 
+		<		is less than 
+		<=		is less than and equal 
+		=		is equal 
+		<>		is not equal 
+	
+	Logical Operator
+		AND		a>b AND a>c  if both condition match then result will be true otherwise false
+		OR		a>b OR a>c   if both condition not match then resutl will be false otherwise true 
+
+
+Condition: 
+	is decision making statement 
+	if condition
+		...ture /match
+
+	else
+		...false/not match 
+
+	There are following types of condition 
+		i. if condition 
+		ii. if else condition 
+		iii. if elseif ifelse....else / ladder if else 
+		iv.  nested if else / if inside if condition 
+
+
+Question A7: WAP to input 4 integers a, b, c, d and check that the equation a3 + b3 +c3 = d3 is satisfied or not.
+Question B8: WAP to input the salary of a person and calculate the hra and da according to the following conditions:
+		Salary 				HRA		DA
+ 		5000-10000			10%		5%	
+		10001-15000			15%		8%
+Question B9: WAP to input marks in five subjects of a student and calculate the division according to the following conditions:
+		Percentage				Division
+		>=60					First
+		50-59					Second
+		40-49					Third
+		<40					Fail
+Question B10: An electricity board charges according to the following rates:
+		For the first 100 units -   40 paisa per unit.
+		For the next 200 units -   50 paisa per unit.
+		beyond 300 units -  60 paisa per unit.
+All users are charged meter charges also, which are Rs. 50/-
+
+
+		
