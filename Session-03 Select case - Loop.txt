@@ -1,0 +1,114 @@
+Agenda's of Today Session
+===========================
+Select Case
+Loop
+
+Select Case: is conditioal statement
+=============================================
+Choice/option: take a decision based on option 
+	1 - monday
+	2 - tuesday 
+	3 - wednesday 
+	...
+	...
+	
+	a - add
+	s - sub	
+	...
+
+	val>80
+		..
+	val>70 
+		..
+example:
+
+Select Case score
+    Case Is >= 80
+        result = "Very good"
+    Case Is >= 70
+        result = "Good"
+    Case Is >= 50
+        result = "sufficient"
+    Case Else
+        result = "insufficiet"
+
+End Select
+
+
+Loop: is iterator or repeation of statement
+====================================================
+Example
+	1 2 3 4 5 ..... 100  incrementer
+	100 99 98 ...... 1   decrementer 
+	
+	Concepts	
+		- init/start from 		1	100
+		- condition/limit		100	1	
+		- step/increent/decrement	+1	-1
+
+There are following types of loop
+	i. do unitl loop 
+		syntax
+			DO [until condition]		' start from 
+				statement
+			Loop				' end with 
+
+			or 
+
+			Do			'start from
+				statement
+
+			Loop [until condition]	'end with 
+
+
+	ii.do while loop 
+			Do while [condition]
+				statement 
+			Loop	
+
+			or
+			
+			Do While
+				statement 
+
+			Loop [Condition]
+			
+	iii. for loop 
+			For counter = start To End [Step Value]
+				statement 
+			Next [counter]			
+	iv. foreach 			
+
+
+
+Question B24: WAP to input two numbers and a choice and calculate the result according to the following conditions:
+		Choice						Result
+1	Add
+2	Subtract
+3	Multiply
+4	Divide
+5	Remainder
+Question B25: WAP to input two numbers and an operator and calculate the result according to the following conditions:
+		Operator					Result
+‘+’						Add
+‘-‘						Subtract
+‘*’						Multiply
+‘/’						Divide
+‘%’						Remainder
+Question B26: WAP to calculate the area of a circle, a rectangle or a triangle depending upon user’s choice.
+		Choice					Area
+		1					Circle
+		2					Rectangle
+		3					Triangle
+
+
+
+
+Question B34: WAP to print all the even numbers between 1 and 50.
+Question B35: WAP to print all the odd numbers between 1 and 50.
+Question B36: WAP to print the sum and average of first n natural numbers.
+Question B37: WAP to print the sum and average of first n odd numbers.
+Question B38: WAP to print the sum and average of first n even numbers.
+Question B39: WAP to print the table of a given number.
+Question B40: WAP to input 2 numbers and find out the sum of all the even numbers which are not divisible by 5 but divisible by 3 and lies between the given two numbers.
+
