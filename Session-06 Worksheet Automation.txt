@@ -1,0 +1,7 @@
+Agenda of Today Session
+============================
+- Read name of all the worksheets 
+- Change the worksheet name
+- Highlight the cell color based on condition 
+- Read data from every worksheet and store in one worksheet
+- Read data from one worksheet and distribuate to multiple worksheet
