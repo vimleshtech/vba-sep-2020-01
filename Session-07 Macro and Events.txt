@@ -1,0 +1,16 @@
+Agenda of Today Session
+============================
+- Macro 		: is set of recorded statement or command which can be rerun or reuse 
+			: We can record macro
+			: we can run/play macro
+			: We can edit macro 
+			: Macro code will show in modules 
+			
+- Modules		: is collection of macros (sub-routine and function)
+			: module is global for workbooks
+			: we can use module to manage complex code in a sub-section 
+- Toolkit and controls
+			
+- Events
+			onclick
+			
