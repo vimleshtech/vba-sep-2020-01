@@ -1,0 +1,12 @@
+Agenda of Today Session
+============================
+Questions: done
+Functions: 
+	 function is set of statement and command which can alow accessed from excel sheet
+	 function must have return value, however sub-routinue may or may not return value 
+	
+Option Explicit : force to declare the variable, will throw the error without declaration 
+
+Debug 
+
+	
