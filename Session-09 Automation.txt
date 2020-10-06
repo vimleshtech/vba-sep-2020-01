@@ -1,0 +1,8 @@
+Agenda of Today Session
+============================
+Automation: consolidate data from sheets to master sheet
+
+Q. Consolidate rows if gender female from sheet to master sheet 
+
+
+	
